@@ -1,0 +1,14 @@
+After logging in to your MySQL Comand line
+
+Create database restaurant;
+
+Use restaurant;
+
+create table feedback(
+       name varchar(15),
+       email varchar(30),
+       dob varchar(12),
+       service char(1),
+       food char(1));
+Done
+
